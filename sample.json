@@ -1,0 +1,434 @@
+{
+    "PageNumber": 1,
+    "DetectedFields": [
+        {
+            "Type": {
+                "Text": "Receipt Number",
+                "Confidence": 99.5
+            },
+            "LabelDetection": {
+                "Text": "Receipt Number:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1500,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.1000
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.1000 },
+                        { "X": 0.2000, "Y": 0.1000 },
+                        { "X": 0.2000, "Y": 0.1200 },
+                        { "X": 0.0500, "Y": 0.1200 }
+                    ]
+                },
+                "Confidence": 99.7
+            },
+            "ValueDetection": {
+                "Text": "49674",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0500,
+                        "Height": 0.0200,
+                        "Left": 0.2100,
+                        "Top": 0.1000
+                    },
+                    "Polygon": [
+                        { "X": 0.2100, "Y": 0.1000 },
+                        { "X": 0.2600, "Y": 0.1000 },
+                        { "X": 0.2600, "Y": 0.1200 },
+                        { "X": 0.2100, "Y": 0.1200 }
+                    ]
+                },
+                "Confidence": 99.9
+            }
+        },
+        {
+            "Type": {
+                "Text": "Description",
+                "Confidence": 99.6
+            },
+            "LabelDetection": {
+                "Text": "Description:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1300,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.1400
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.1400 },
+                        { "X": 0.1800, "Y": 0.1400 },
+                        { "X": 0.1800, "Y": 0.1600 },
+                        { "X": 0.0500, "Y": 0.1600 }
+                    ]
+                },
+                "Confidence": 99.8
+            },
+            "ValueDetection": {
+                "Text": "Hom Rocking Chair Black",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.3000,
+                        "Height": 0.0200,
+                        "Left": 0.1900,
+                        "Top": 0.1400
+                    },
+                    "Polygon": [
+                        { "X": 0.1900, "Y": 0.1400 },
+                        { "X": 0.4900, "Y": 0.1400 },
+                        { "X": 0.4900, "Y": 0.1600 },
+                        { "X": 0.1900, "Y": 0.1600 }
+                    ]
+                },
+                "Confidence": 99.9
+            }
+        },
+        {
+            "Type": {
+                "Text": "Manufacturer",
+                "Confidence": 99.5
+            },
+            "LabelDetection": {
+                "Text": "Manufacturer:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1600,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.1800
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.1800 },
+                        { "X": 0.2100, "Y": 0.1800 },
+                        { "X": 0.2100, "Y": 0.2000 },
+                        { "X": 0.0500, "Y": 0.2000 }
+                    ]
+                },
+                "Confidence": 99.7
+            },
+            "ValueDetection": {
+                "Text": "Hon Rocking",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2000,
+                        "Height": 0.0200,
+                        "Left": 0.2200,
+                        "Top": 0.1800
+                    },
+                    "Polygon": [
+                        { "X": 0.2200, "Y": 0.1800 },
+                        { "X": 0.4200, "Y": 0.1800 },
+                        { "X": 0.4200, "Y": 0.2000 },
+                        { "X": 0.2200, "Y": 0.2000 }
+                    ]
+                },
+                "Confidence": 99.9
+            }
+        },
+        {
+            "Type": {
+                "Text": "Product Name",
+                "Confidence": 99.6
+            },
+            "LabelDetection": {
+                "Text": "Product Name:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1600,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.2200
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.2200 },
+                        { "X": 0.2100, "Y": 0.2200 },
+                        { "X": 0.2100, "Y": 0.2400 },
+                        { "X": 0.0500, "Y": 0.2400 }
+                    ]
+                },
+                "Confidence": 99.8
+            },
+            "ValueDetection": {
+                "Text": "FUR-CH-4682",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1500,
+                        "Height": 0.0200,
+                        "Left": 0.2200,
+                        "Top": 0.2200
+                    },
+                    "Polygon": [
+                        { "X": 0.2200, "Y": 0.2200 },
+                        { "X": 0.3700, "Y": 0.2200 },
+                        { "X": 0.3700, "Y": 0.2400 },
+                        { "X": 0.2200, "Y": 0.2400 }
+                    ]
+                },
+                "Confidence": 99.9
+            }
+        },
+        {
+            "Type": {
+                "Text": "Unit Price",
+                "Confidence": 99.6
+            },
+            "LabelDetection": {
+                "Text": "Unit Price:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1300,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.2600
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.2600 },
+                        { "X": 0.1800, "Y": 0.2600 },
+                        { "X": 0.1800, "Y": 0.2800 },
+                        { "X": 0.0500, "Y": 0.2800 }
+                    ]
+                },
+                "Confidence": 99.7
+            },
+            "ValueDetection": {
+                "Text": "1025.52",
+                "Currency": {
+                    "Code": "USD"
+                },
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1000,
+                        "Height": 0.0200,
+                        "Left": 0.1900,
+                        "Top": 0.2600
+                    },
+                    "Polygon": [
+                        { "X": 0.1900, "Y": 0.2600 },
+                        { "X": 0.2900, "Y": 0.2600 },
+                        { "X": 0.2900, "Y": 0.2800 },
+                        { "X": 0.1900, "Y": 0.2800 }
+                    ]
+                },
+                "Confidence": 99.8
+            }
+        },
+        {
+            "Type": {
+                "Text": "Quantity",
+                "Confidence": 99.6
+            },
+            "LabelDetection": {
+                "Text": "Quantity:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1200,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.3000
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.3000 },
+                        { "X": 0.1700, "Y": 0.3000 },
+                        { "X": 0.1700, "Y": 0.3200 },
+                        { "X": 0.0500, "Y": 0.3200 }
+                    ]
+                },
+                "Confidence": 99.7
+            },
+            "ValueDetection": {
+                "Text": "8",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0300,
+                        "Height": 0.0200,
+                        "Left": 0.1900,
+                        "Top": 0.3000
+                    },
+                    "Polygon": [
+                        { "X": 0.1900, "Y": 0.3000 },
+                        { "X": 0.2200, "Y": 0.3000 },
+                        { "X": 0.2200, "Y": 0.3200 },
+                        { "X": 0.1900, "Y": 0.3200 }
+                    ]
+                },
+                "Confidence": 99.9
+            }
+        },
+        {
+            "Type": {
+                "Text": "Total Price",
+                "Confidence": 99.6
+            },
+            "LabelDetection": {
+                "Text": "Total Price:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1400,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.3400
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.3400 },
+                        { "X": 0.1900, "Y": 0.3400 },
+                        { "X": 0.1900, "Y": 0.3600 },
+                        { "X": 0.0500, "Y": 0.3600 }
+                    ]
+                },
+                "Confidence": 99.7
+            },
+            "ValueDetection": {
+                "Text": "8376.32",
+                "Currency": {
+                    "Code": "USD"
+                },
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1200,
+                        "Height": 0.0200,
+                        "Left": 0.2000,
+                        "Top": 0.3400
+                    },
+                    "Polygon": [
+                        { "X": 0.2000, "Y": 0.3400 },
+                        { "X": 0.3200, "Y": 0.3400 },
+                        { "X": 0.3200, "Y": 0.3600 },
+                        { "X": 0.2000, "Y": 0.3600 }
+                    ]
+                },
+                "Confidence": 99.9
+            }
+        },
+        {
+            "Type": {
+                "Text": "Payment Mode",
+                "Confidence": 99.6
+            },
+            "LabelDetection": {
+                "Text": "Payment Mode:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1500,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.3800
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.3800 },
+                        { "X": 0.2000, "Y": 0.3800 },
+                        { "X": 0.2000, "Y": 0.4000 },
+                        { "X": 0.0500, "Y": 0.4000 }
+                    ]
+                },
+                "Confidence": 99.7
+            },
+            "ValueDetection": {
+                "Text": "Payment Variable",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2000,
+                        "Height": 0.0200,
+                        "Left": 0.2100,
+                        "Top": 0.3800
+                    },
+                    "Polygon": [
+                        { "X": 0.2100, "Y": 0.3800 },
+                        { "X": 0.4100, "Y": 0.3800 },
+                        { "X": 0.4100, "Y": 0.4000 },
+                        { "X": 0.2100, "Y": 0.4000 }
+                    ]
+                },
+                "Confidence": 99.8
+            }
+        },
+        {
+            "Type": {
+                "Text": "Payment Variable",
+                "Confidence": 99.6
+            },
+            "LabelDetection": {
+                "Text": "Payment Variable:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1600,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.4200
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.4200 },
+                        { "X": 0.2100, "Y": 0.4200 },
+                        { "X": 0.2100, "Y": 0.4400 },
+                        { "X": 0.0500, "Y": 0.4400 }
+                    ]
+                },
+                "Confidence": 99.7
+            },
+            "ValueDetection": {
+                "Text": "172.16",
+                "Currency": {
+                    "Code": "USD"
+                },
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.0800,
+                        "Height": 0.0200,
+                        "Left": 0.2200,
+                        "Top": 0.4200
+                    },
+                    "Polygon": [
+                        { "X": 0.2200, "Y": 0.4200 },
+                        { "X": 0.3000, "Y": 0.4200 },
+                        { "X": 0.3000, "Y": 0.4400 },
+                        { "X": 0.2200, "Y": 0.4400 }
+                    ]
+                },
+                "Confidence": 99.9
+            }
+        },
+        {
+            "Type": {
+                "Text": "Order ID",
+                "Confidence": 99.6
+            },
+            "LabelDetection": {
+                "Text": "Order ID:",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.1000,
+                        "Height": 0.0200,
+                        "Left": 0.0500,
+                        "Top": 0.4600
+                    },
+                    "Polygon": [
+                        { "X": 0.0500, "Y": 0.4600 },
+                        { "X": 0.1500, "Y": 0.4600 },
+                        { "X": 0.1500, "Y": 0.4800 },
+                        { "X": 0.0500, "Y": 0.4800 }
+                    ]
+                },
+                "Confidence": 99.7
+            },
+            "ValueDetection": {
+                "Text": "UP-2013-AH10030137-41325",
+                "Geometry": {
+                    "BoundingBox": {
+                        "Width": 0.2500,
+                        "Height": 0.0200,
+                        "Left": 0.1600,
+                        "Top": 0.4600
+                    },
+                    "Polygon": [
+                        { "X": 0.1600, "Y": 0.4600 },
+                        { "X": 0.4100, "Y": 0.4600 },
+                        { "X": 0.4100, "Y": 0.4800 },
+                        { "X": 0.1600, "Y": 0.4800 }
+                    ]
+                },
+                "Confidence": 99.9
+            }
+        }
+    ]
+}
